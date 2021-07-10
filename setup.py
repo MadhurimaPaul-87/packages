@@ -8,7 +8,6 @@ setup(
   author = 'Madhurima Paul',                   # Type in your name
   author_email = 'mguharoy4@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/MadhurimaPaul-87/packages',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
   keywords = ['anova', 'SSB', 'SSW'],   # Keywords that define your package best
      
   classifiers=[
